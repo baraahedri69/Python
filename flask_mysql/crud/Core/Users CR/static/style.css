@@ -1,0 +1,27 @@
+.add-user-button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.add-user-button:hover {
+    background-color: darkgreen;
+}
+
+.create-user-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.create-user-button:hover {
+    background-color: darkblue;
+}
